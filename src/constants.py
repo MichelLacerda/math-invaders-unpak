@@ -1,0 +1,2 @@
+SIZEOF_NUM_ASSETS = 4  # 4 bytes
+SIZEOF_MAGIC_DATA = 68  # 68 bytes
